@@ -498,7 +498,7 @@ hr {
     margin-left: 248px; } }
 @media (min-width: 66.5rem) {
   .main-content {
-    margin-left: calc((100% - 1064px) / 2 + 264px); } }
+    margin-left: calc( (100% - 1064px) / 2 + 264px ); } }
 
 .js-main-content:focus {
   outline: none; }
