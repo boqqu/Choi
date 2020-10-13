@@ -4,7 +4,7 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 gem "just-the-docs"
-gem "kramdown-parser-gfm"
+
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
