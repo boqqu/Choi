@@ -17,11 +17,11 @@ nav_order: 1
 
 ---
 
-기간: Sep 3, 2019 → Dec 30, 2019
-대표 프로젝트: Yes
-역할: UX 리서치, UXUI 디자인, 개발
-키워드: AR, Mobile Navigation, Research Project
-프로젝트 형태: 졸업 논문
+- 기간: Sep 3, 2019 → Dec 30, 2019
+- 대표 프로젝트: Yes
+- 역할: UX 리서치, UXUI 디자인, 개발
+- 키워드: AR, Mobile Navigation, Research Project
+- 프로젝트 형태: 졸업 논문
 
 # Overview
 
