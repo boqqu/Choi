@@ -1,20 +1,11 @@
 ---
-layout: page
+layout: default
 title: Blog
 nav_order: 3
+has_children: true
 permalink: /blog/
 ---
 
-blog contents
+# blog contents
 
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+{: .fs-6 .fw-300 }
