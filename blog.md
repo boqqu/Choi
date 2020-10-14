@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+nav_order: 2
 permalink: /blog/
 ---
 
