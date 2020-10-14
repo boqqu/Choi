@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+parent: Blog
 date:   2020-06-05 07:16:16 +0900
 categories: jekyll update
 ---
