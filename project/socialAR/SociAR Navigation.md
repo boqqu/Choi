@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: default
 title: "사회적 길찾기 SociAR Navigation"
+parent: Project
 nav_order: 1
-parent: project
-permalink: /project/social-ar/
 ---
 
 
