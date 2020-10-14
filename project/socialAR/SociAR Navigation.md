@@ -3,7 +3,7 @@ layout: post
 title: "사회적 길찾기 SociAR Navigation"
 nav_order: 1
 parent: project
-permalink: /socialAR/
+permalink: /project/social-ar/
 ---
 
 
