@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: BOQQU | LOG
 main: true
 subtitle: Digital Experience Designer Bokgiu Choi
 nav_order: 1
@@ -15,8 +15,8 @@ permalink: /
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Bokgiu Choi,
+    안녕하세요, 디지털 경험을 설계하는 디자이너/개발자 최복규입니다.
     </h1>
-    <h1 class="intro">a Digital Experience Designer 
-    </h1>
+    <h2 class="intro">여기는 테크, 아트, 그리고 사용자 경험에 대한 기록과 작업물을 남기는 공간입니다.
+    </h2>
 </section>
